@@ -17,8 +17,8 @@ It focuses on extracting meaningful insights using SQL concepts like JOINs, Aggr
 ---
 
 ## 📂 Dataset
-- `titles.csv` → Movies & Shows data  
-- `credits.csv` → Actors & Directors info  
+- `titles.csv` → Movies & Shows data (from kaggle) 
+- `credits.csv` → Actors & Directors info (from kaggle) 
 
 ---
 
